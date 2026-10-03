@@ -1,7 +1,11 @@
-# Facit – endast för lokal granskning
+# Facit – en möjlig lösning
 
-**Ta bort hela `facit/` innan student-templaten publiceras.** Mappen ignoreras av `.gitignore` som extra skydd, men kontrollera ändå de faktiska filerna som läggs till på GitHub.
+Den här mappen innehåller **en möjlig lösning**, inte den enda.
 
-Det här är **en möjlig lösning**, inte den enda. Gör labben först. Jämför sedan din kod och din förståelse med filerna här; kopiera inte bara raderna.
+- Gör labben själv först.
+- Använd facit för att jämföra struktur, beteende och förståelse.
+- Kopiera inte bara koden. Försök förklara varför lösningen fungerar.
 
-I den här slutversionen ligger `name`, `age`, `eat()`, `sleep()` och `move()` i `Animal`. `speak()` har en generell version där och en egen version i varje child class. `Cow` är ett exempel på det självständiga tillägget. `move()` innehåller åldern efter underhållsexperimentet i steg 11. Kör från repositoryts rot med `python facit/main.py` (eller `py`/`python3` enligt din dator).
+`Animal` är base class med `name`, `age`, `eat()`, `sleep()`, `move()` och en generell `speak()`. `Dog`, `Cat`, `Horse` och `Cow` är subclasses som har egna `speak()`. `move()` innehåller åldern efter experimentet i steg 11.
+
+Kör från repositoryts rot med `python facit/main.py` (eller `py`/`python3`).
