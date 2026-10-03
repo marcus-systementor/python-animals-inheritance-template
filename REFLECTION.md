@@ -6,7 +6,7 @@ Svara kort med egna ord. Det är okej att inte ha gjort alla steg. Skriv gärna 
 2. Varför kunde den upprepningen bli ett problem om fler djur lades till?
 3. Vad får Dog från Animal efter refaktoreringen?
 4. Vad är fortfarande specifikt för Dog?
-5. Hur skiljer sig Animal som parent class från Dog som child class i din kod?
+5. Hur skiljer sig Animal som base class från Dog som subclass i din kod?
 6. Vad betyder en override av en method här?
 7. Vad händer med `speak()` när Dog har en egen version med samma namn som Animal?
 8. Varför kan samma loop anropa `speak()` på Dog, Cat och Horse?

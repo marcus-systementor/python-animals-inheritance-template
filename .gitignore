@@ -2,6 +2,3 @@ __pycache__/
 *.py[cod]
 .venv/
 .vscode/
-
-# Instructor-only reference; remove the local directory before publishing.
-facit/
