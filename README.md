@@ -8,7 +8,7 @@ Det här är en övning, inte en examination. Arbeta steg för steg och kör oft
 
 ## Kom igång
 
-Om labben delas som en publik GitHub-template: välj **Use this template → Create a new repository**, skapa ett eget **Private** repository och klona **ditt eget** repository. Arbeta i mappen som innehåller `README.md`. Inga extra paket behövs. Om läraren ska se ditt private repository behöver du följa lärarens anvisning om åtkomst; en länk ensam ger inte åtkomst.
+Om labben delas som en publik GitHub-template: välj **Use this template → Create a new repository**, skapa ett eget **Private** repository och klona **ditt eget** repository. Arbeta i mappen som innehåller `README.md`. Inga extra paket behövs.
 
 Filerna du redigerar är [animals.py](animals.py) för classes och [main.py](main.py) för objects, anrop och utskrifter. Du kan använda [HJALP.md](HJALP.md) när något inte fungerar och skriva med egna ord i [REFLECTION.md](REFLECTION.md).
 
